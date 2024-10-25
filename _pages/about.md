@@ -22,4 +22,3 @@ My research interests focus on using artificial intelligence to enhance accessib
 
 In my free time, I enjoy playing piano, reading, and going to the gym. Fun fact: I have been playing piano for over 15 years and passed the McGill Conservatory Collegial Level Piano exams!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
