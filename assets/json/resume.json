@@ -2,54 +2,71 @@
   "basics": {
     "name": "Nooshin Soheililangroodi",
     "label": "Computer Scientist",
-    "image": "",
+    "image": "IMG_6338.jpeg",
     "email": "nsl1380@yahoo.com",
     "phone": "(514) 549-9812",
     "url": "https://noosh1380.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Undergraduate student at McGill and Technical Expert at Apple, interested in machine learning and sign languages.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "nooshin-soheililangroodi-computerscience",
+        "url": "https://www.linkedin.com/in/nooshin-soheililangroodi-computerscience/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Apple Dix30",
+      "position": "Technical Expert",
+      "url": "https://www.apple.com/ca/retail/dix30/",
+      "startDate": "2023-02",
+      "endDate": "Present",
+      "summary": "Learn and use structured methods to thoroughly examine a malfunctioning device and isolate the source of the issue. Follow guidelines while repairing defective iPhones. Keep an up-to-date knowledge about technical aspects of all products."
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Apple Dix30",
+      "position": "Technical Specialist",
+      "url": "https://www.apple.com/ca/retail/dix30/",
+      "startDate": "2021-11",
+      "endDate": "2023-02",
+      "summary":  "Helped clients solve software and hardware issues in their Apple devices. Educated customers about technology and Apple products and services."
     }
+    
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "institution": "McGill University",
+      "location": "Montreal, Canada",
+      "url": "https://www.mcgill.ca",
+      "major": "Computer Science",
+      "minor": "Economics"
+      "studyType": "Bachelor's degree",
+      "startDate": "2021-09",
+      "endDate": "2024-12",
+      "GPA": "3.93",
+      "courses": ["Machine Learning", "Artificial Intelligence", "Reinforcement Learning", "Natural Language Processing"]
+    }, 
+    {
+      "institution": "Marianopolis College",
+      "location": "Montreal, Canada",
+      "url": "https://www.marianopolis.edu",
+      "program": "Honours Pure and Applied Sciences",
+      "studyType": "Degree of College Studies",
+      "startDate": "2019-08",
+      "endDate": "2021-05",
+      "R-Score": "37.731",
+      "courses": ["Mathematics with Applications to Computer Science", "Programming Techniques and Applications"]
+    },
+    {
+      "institution": "Ecole Secondaire Dorval Jean-XXIII",
+      "location": "Montreal, Canada",
+      "url": "https://dorvaljean23.ecoleouestmtl.com",
+      "studyType": "Degree of High School Studies",
+      "startDate": "2017-02",
+      "endDate": "2019-06",
+      "Grade": "94%",
+    },
   ],
   "awards": [
     {
