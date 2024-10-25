@@ -70,11 +70,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Governor General's Academic Medal",
+      "date": "2019",
+      "awarder": "The Governor General of Canada",
+      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
+      "summary": "'Lord Dufferin, Canada’s third Governor General after Confederation, created the Academic Medals in 1873 to encourage academic excellence across the nation. Over the years, they have become the most prestigious award that students in Canadian schools can receive.'"
+    },
+    {
+      "title": "Wing Hing Chan Entrance Scholarship in Science",
+      "date": "2021",
+      "awarder": "McGill University",
+      "url": "https://www.gg.ca/en/honours/governor-generals-awards/governor-generals-academic-medal",
+      "summary": "'Awarded by the Scholarships and Student Aid Office on the basis of academic merit to outstanding undergraduate students entering the Faculty of Science.'"
     }
   ],
   "certificates": [
