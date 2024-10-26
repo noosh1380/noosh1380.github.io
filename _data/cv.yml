@@ -32,8 +32,9 @@
     - title: Degree of High School Studies
       institution: Ecole Secondaire Dorval Jean-XXIII, Montreal, Canada
       year: 2017-2019
-      descriptionn: 
-        - Achieved the Governor General’s Academic Medal for obtaining the highest overall average (94%) in the graduating class
+      description: 
+        - Achieved the Governor General’s Academic Medal for obtaining the highest overall average in the graduating class
+        - Grade of 94%
 
 - title: Work Experience
   type: time_table
