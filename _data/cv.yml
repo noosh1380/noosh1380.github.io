@@ -2,25 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nooshin Soheililangroodi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12 May 2001
     - name: Languages
-      value: English, German
+      value: English, French, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's degree
+      institution: McGill University, Montreal, Canada
+      start date: 2021-09,
+      end date: 2024-12,
       description:
         - Description 1.
         - Description 2.
         - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+          
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
