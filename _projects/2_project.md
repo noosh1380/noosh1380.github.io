@@ -7,7 +7,7 @@ importance: 2
 category: Research
 ---
 
-A collaborative research project in the field of reinforcement learning: <a href="https://drive.google.com/file/d/1yg1AXV2AbsHC2g6n__JKsteykK50t7W1/view?usp=share_link">A Study on Random and Prioritized Memory Buffer Techniques and Their Performance</a>
+A collaborative research project in the field of reinforcement learning conducted at McGill University as part of a graduate-level course: <a href="https://drive.google.com/file/d/1yg1AXV2AbsHC2g6n__JKsteykK50t7W1/view?usp=share_link">A Study on Random and Prioritized Memory Buffer Techniques and Their Performance</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
