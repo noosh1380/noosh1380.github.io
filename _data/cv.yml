@@ -19,7 +19,9 @@
         - Minor of Economics 
         - GPA of 3.93
         - Courses of Machine Learning, Artificial Intelligence, Reinforcement Learning, and Natural Language Processing
-          
+        - Active member of McGill Sign Language Club
+        - Completed multiple machine learning coding projects
+        
     - title: Degree of College Studies
       institution: Marianopolis College, Montreal, Canada
       year: 2019-2021
@@ -31,8 +33,10 @@
     - title: Degree of High School Studies
       institution: Ecole Secondaire Dorval Jean-XXIII, Montreal, Canada
       year: 2017-2019
-      description:
+      descriptionn: 
+        - Achieved the Governor General’s Academic Medal for obtaining the highest overall average in the graduating class
         - Grade of 94%
+        
 
 - title: Experience
   type: time_table
@@ -52,37 +56,39 @@
         - Helped clients solve software and hardware issues in their Apple devices. 
         - Educated customers about technology and Apple products and services.
 
-- title: Open Source Projects
-  type: time_table
+- title: Research Experience
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - title: Mila – Quebec AI Institute
+      items:
+        - Work in Dr. Siva Reddy’s NLP lab, investigating the limitations of common vision-to-language mappings in vision-language models (VLMs).
+    - title: McGill University
+      items:
+        - Conducted collaborative research on “Random and Prioritized Memory Buffer Techniques and Their Performance”.
+    - title: Marianopolis College
+      items:
+        - Completed a literature review on the “Use of Artificial Intelligence in Prosthetics”.
+        
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Wing Hing Chan Entrance Scholarship in Science at McGill University 
+        - Margaret Furst Award for outstanding achievement in Physics at Marianopolis College
+    - year: 2019
       items:
-        - Max Planck Medal
-
+        - Governor General's Academic Medal at Ecole Secondaire Dorval Jean-XXIII
+        
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Sign Language Processing 
+        - Natural Language Processing 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Playing piano, Reading Books, Swimming, Exercising, learning ASL
