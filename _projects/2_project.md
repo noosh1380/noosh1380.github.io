@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Project 2
+title: Project 2
 description: A Study on Memory Buffers in Reinforcement Learning
 img: assets/img/Project2.2.jpg
 importance: 2
