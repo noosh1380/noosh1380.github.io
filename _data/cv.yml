@@ -15,65 +15,42 @@
       institution: McGill University, Montreal, Canada
       year: 2021-2024
       description:
-        type: map
-        contents:
-          - name: Major 
-            value: Computer Science
-          - name: Minor
-            value: Economics 
-          - name: GPA
-            value: 3.93
-          - name: Courses
-            value: Machine Learning, Artificial Intelligence, Reinforcement Learning, and Natural Language Processing
+        - Major of Computer Science 
+        - Minor of Economics 
+        - GPA of 3.93
+        - Courses of Machine Learning, Artificial Intelligence, Reinforcement Learning, and Natural Language Processing
           
     - title: Degree of College Studies
       institution: Marianopolis College, Montreal, Canada
       year: 2019-2021
       description:
-        - Program: Honours Pure and Applied Sciences
-        - R-Score: 37.731
-        - url : https://www.marianopolis.edu
-        - Courses: Mathematics with Applications to Computer Science, Programming Techniques and Applications
+        - Program of Honours Pure and Applied Sciences
+        - R-Score of 37.731
+        - Courses of Mathematics with Applications to Computer Science, Programming Techniques and Applications
 
     - title: Degree of High School Studies
       institution: Ecole Secondaire Dorval Jean-XXIII, Montreal, Canada
       year: 2017-2019
       description:
-        - Grade: 94%
-        - url : https://dorvaljean23.ecoleouestmtl.com
+        - Grade of 94%
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Technical Expert 
+      institution: Apple Store Dix30, Brossard, Quebec, Canada
+      year: 2023-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Learn and use structured methods to thoroughly examine a malfunctioning device and isolate the source of the issue.
+        - Follow guidelines while repairing defective iPhones.
+        - Keep an up-to-date knowledge about technical aspects of all products.
+        
+    - title: Technical Specialist
+      institution: Apple Store Dix30, Brossard, Quebec, Canada
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Helped clients solve software and hardware issues in their Apple devices. 
+        - Educated customers about technology and Apple products and services.
 
 - title: Open Source Projects
   type: time_table
