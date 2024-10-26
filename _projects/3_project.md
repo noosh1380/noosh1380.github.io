@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Project 1
-description: Use of Artificial Intelligence in Prosthetics
+description: A study on Artifical Intelligence in Prosthetics
 img: assets/img/Project1.jpg
 importance: 3
 category: Research 
