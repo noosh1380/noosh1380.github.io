@@ -13,7 +13,7 @@ An ongoing undergraduate research project supervised by Dr. Siva Reddy, conducte
 <h3>Description</h3>
 
 A VLM consists of 3 main components: 1) A vision encoder that encodes the input image/video to embeddings, 2) A large language model (LLM) that processes both the input text and the visual embeddings to generate a response, and 3) A mapping that aligns the output embedding space of the vision encoder with the input embedding space of the LLM. 
-Two common approaches for the mapping component are the Multi-Layer Perceptron (MLP) and the resampler, each with its own implementation, advantages, and disadvantages. While MLPs are more commonly used in image-processing VLMs, both architectures may result in some loss of visual features during the projection between token spaces. 
+Two common approaches for the mapping component are the Multi-Layer Perceptron (MLP) and the resampler, each with its own implementation, advantages, and disadvantages. While MLPs are more commonly used in image-processing VLMs, both architectures may result in some loss of visual features of videos during the projection between token spaces. 
 This project explores whether resampler-based VLMs can better preserve the temporal and spatial structure of the input in comparison with the MLP-based VLMs. 
 
 <div class="row">
