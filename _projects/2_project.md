@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Project 2
-description: Reinforcement Learning 
+description: A study on Reinforcement Learning 
 img: assets/img/Project2.2.jpg
 importance: 2
 category: Research
