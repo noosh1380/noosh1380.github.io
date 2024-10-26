@@ -20,13 +20,12 @@
         - GPA of 3.93
         - Courses of Machine Learning, Artificial Intelligence, Reinforcement Learning, and Natural Language Processing
         - Active member of McGill Sign Language Club
-        - Completed multiple machine learning coding projects
         
     - title: Degree of College Studies
       institution: Marianopolis College, Montreal, Canada
       year: 2019-2021
       description:
-        - Program of Honours Pure and Applied Sciences
+        - Program of Honors Pure and Applied Sciences
         - R-Score of 37.731
         - Courses of Mathematics with Applications to Computer Science, Programming Techniques and Applications
 
@@ -34,9 +33,7 @@
       institution: Ecole Secondaire Dorval Jean-XXIII, Montreal, Canada
       year: 2017-2019
       descriptionn: 
-        - Achieved the Governor General’s Academic Medal for obtaining the highest overall average in the graduating class
-        - Grade of 94%
-        
+        - Achieved the Governor General’s Academic Medal for obtaining the highest overall average (94%) in the graduating class
 
 - title: Work Experience
   type: time_table
