@@ -7,7 +7,7 @@ importance: 3
 category: Research 
 ---
 
-A literature review on  <a href="https://drive.google.com/file/d/1j6NFmLGffXBUjS2TV7wPXmjuTqS55IOc/view?usp=share_link">Use of Artificial Intelligence in Prosthetics</a>
+A literature review on  <a href="https://drive.google.com/file/d/1j6NFmLGffXBUjS2TV7wPXmjuTqS55IOc/view?usp=share_link">Use of Artificial Intelligence in Prosthetics</a> conducted at Marianopolis College as part of the honours program.
 
 
 <b>Abstract</b>
