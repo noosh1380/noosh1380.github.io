@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project 1
-description: A study on Artifical Intelligence in Prosthetics
+description: A Study on Artifical Intelligence in Prosthetics
 img: assets/img/project1.jpg
 importance: 3
 category: Research 
