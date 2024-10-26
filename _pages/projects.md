@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Research Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of studies in the field of Machine Learning
 nav: true
 nav_order: 3
 display_categories: [work, fun]
