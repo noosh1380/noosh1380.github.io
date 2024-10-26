@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Project 3
+title: Project 3
 description: A Study on Mappings in Vision-Language Models  
 img: assets/img/Project3.png
 importance: 1
