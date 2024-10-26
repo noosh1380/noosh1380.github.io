@@ -4,7 +4,7 @@
     - name: Full Name
       value: Nooshin Soheililangroodi
     - name: Date of Birth
-      value: 12 May 2001
+      value: 2 May 2001
     - name: Languages
       value: English, French, Persian
 
@@ -15,18 +15,32 @@
       institution: McGill University, Montreal, Canada
       year: 2021-2024
       description:
-        - Major: Computer Science
-        - Minor: Economics 
-        - GPA: 3.93
-        - url : https://www.mcgill.ca
-        - Courses: Machine Learning, Artificial Intelligence, Reinforcement Learning, and Natural Language Processing
+        type: map
+        contents:
+          - name: Major 
+            value: Computer Science
+          - name: Minor
+            value: Economics 
+          - name: GPA
+            value: 3.93
+          - name: Courses
+            value: Machine Learning, Artificial Intelligence, Reinforcement Learning, and Natural Language Processing
           
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Degree of College Studies
+      institution: Marianopolis College, Montreal, Canada
+      year: 2019-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Program: Honours Pure and Applied Sciences
+        - R-Score: 37.731
+        - url : https://www.marianopolis.edu
+        - Courses: Mathematics with Applications to Computer Science, Programming Techniques and Applications
+
+    - title: Degree of High School Studies
+      institution: Ecole Secondaire Dorval Jean-XXIII, Montreal, Canada
+      year: 2017-2019
+      description:
+        - Grade: 94%
+        - url : https://dorvaljean23.ecoleouestmtl.com
 
 - title: Experience
   type: time_table
