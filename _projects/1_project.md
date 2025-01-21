@@ -7,7 +7,7 @@ importance: 1
 category: Research
 ---
 
-An undergraduate research project supervised by Dr. Siva Reddy, conducted at Mila - Quebec AI Institute: <a href="https://drive.google.com/file/d/1ptEbDLMPaieengtZWP0iHyP2RymGOwP5/view?usp=sharing"> Resampling’s Reality: Investigating Spatial and Temporal Structure Preservation in Resampler-Based Vision-Language Models</a>
+An ongoing undergraduate research project supervised by Dr. Siva Reddy, conducted at Mila - Quebec AI Institute. 
 
 
 <h4><b>Description</b></h4>
