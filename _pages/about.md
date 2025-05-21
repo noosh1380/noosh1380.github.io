@@ -15,9 +15,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an undergraduate student at McGill University in Montreal, majoring in Computer Science with a minor in Economics. I am also a researcher at Mila - Quebec AI Institute, working in Dr. Siva Reddy’s NLP lab. Alongside my studies, I have been woking at Apple for over three years, currently holding the position of Technical Expert.
-
-My research interests focus on using artificial intelligence to enhance accessibility. During my time at Marianopolis College in the Honours Pure and Applied Science Program, I conducted a literature review on the use of AI in prosthetics. I am now investigating the limitations of common vision-to-language mappings in vision-language models (VLMs). These projects have laid the groundwork for my ultimate research interest: Machine Learning in Sign Language Processing.
-
-In my free time, I enjoy playing piano, reading, and going to the gym. Fun fact: I have been playing piano for over 15 years and passed the McGill Conservatory Collegial Level Piano exams!
+I’m a computer scientist with a strong focus on machine learning and natural language processing. I’ve led research projects at Mila – Quebec AI Institute and McGill University, working on multimodal model benchmarking, performance pipelines, and vision-language model analysis. With top academic performance in ML, AI, NLP, and reinforcement learning, and hands-on experience collaborating with researchers at all levels, I’m passionate about applying machine learning to complex, real-world problems.
 
